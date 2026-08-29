@@ -1,0 +1,14 @@
+.next
+node_modules
+node_modules-sites
+.wrangler
+dist
+.openai
+worker
+examples
+db
+scripts
+build
+tests
+vite.config.ts
+drizzle.config.ts
